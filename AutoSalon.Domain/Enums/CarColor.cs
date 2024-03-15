@@ -1,6 +1,6 @@
 namespace AutoSalon.Domain.Enums
 {
-    public enum CarColor : byte
+    public enum CarColor
     {
         red,
         black,
